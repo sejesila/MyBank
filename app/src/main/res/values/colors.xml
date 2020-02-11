@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#9C27B0</color>
+    <color name="home_frag">#4C27B0</color>
+    <color name="dash_frag">#1C23B0</color>
+    <color name="fav_frag">#F47932</color>
+    <color name="signupColor">#DC1313</color>
+    <color name="white">#1ADC24</color>
+    <color name="password_edit">#FF3E96</color>
+
+
+
+</resources>
